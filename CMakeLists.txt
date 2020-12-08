@@ -1,4 +1,4 @@
-project(Mscl LANGUAGES C)
+project(Mscl LANGUAGES CXX)
 
 cmake_minimum_required(VERSION 3.8)
 
